@@ -1,5 +1,3 @@
-﻿# LEERWARE: CS2
-
 ## Table of Contents :scroll:
 - [About](#about)
 - [Contact](#contact)
@@ -7,7 +5,7 @@
 - [License](#license)
 
 ## About :information_source:
-- Leerware is a CS2 cheat based on [Asphyxia](https://github.com/maecry/asphyxia-cs2).
+- CS2 cheat based on [Asphyxia](https://github.com/maecry/asphyxia-cs2).
 - Asphyxia is a base that was intended to be a starting point. It is not a cheat itself, but rather a framework for building your own cheat.
 - C++ version: 20
 
