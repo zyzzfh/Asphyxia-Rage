@@ -1,3 +1,6 @@
+**DO NOT USE IT YOU WILL GET BANNED/VAC ERROR JUST USE IT TO LEARN**
+
+
 ## Table of Contents :scroll:
 - [About](#about)
 - [Contact](#contact)
